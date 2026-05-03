@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"freesound_community_sniper_rifle_5989",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.616009,
+  "exportDir":"",
+  "name":"freesound_community_sniper_rifle_5989",
+  "parent":{
+    "name":"weird game",
+    "path":"weird game.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"freesound_community_sniper_rifle_5989.mp3",
+  "volume":0.53,
+}

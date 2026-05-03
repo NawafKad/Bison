@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"dragon_studio_frog_croaking_sound_effect_322956__AudioTrimmer_com_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.6149433,
+  "exportDir":"",
+  "name":"dragon_studio_frog_croaking_sound_effect_322956__AudioTrimmer_com_",
+  "parent":{
+    "name":"weird game",
+    "path":"weird game.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"dragon_studio_frog_croaking_sound_effect_322956__AudioTrimmer_com_.mp3",
+  "volume":1.0,
+}
