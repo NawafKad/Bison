@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Green_frog_removebg_preview",
-    "path":"sprites/Green_frog_removebg_preview/Green_frog_removebg_preview.yy",
+    "name":"Green_frog",
+    "path":"sprites/Green_frog/Green_frog.yy",
   },
   "spriteMaskId":null,
   "visible":true,

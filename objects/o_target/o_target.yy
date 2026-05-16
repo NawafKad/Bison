@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"_46_467782_mw2_barrett_png_transparent_png_removebg_preview",
-    "path":"sprites/_46_467782_mw2_barrett_png_transparent_png_removebg_preview/_46_467782_mw2_barrett_png_transparent_png_removebg_preview.yy",
+    "name":"mw2",
+    "path":"sprites/mw2/mw2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

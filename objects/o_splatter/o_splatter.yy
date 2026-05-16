@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"detailed_red_blood_splatter_black_background_ideal_halloween_1048_19343_removebg_preview",
-    "path":"sprites/detailed_red_blood_splatter_black_background_ideal_halloween_1048_19343_removebg_preview/detailed_red_blood_splatter_black_background_ideal_halloween_1048_19343_removebg_preview.yy",
+    "name":"blood",
+    "path":"sprites/blood/blood.yy",
   },
   "spriteMaskId":null,
   "visible":true,
